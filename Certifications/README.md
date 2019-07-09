@@ -1,4 +1,4 @@
-#Certifications 
+# Certifications 
 0. Deep Learning Specialization  
 1. Neural Networks and Deep Learning
 2. Networks: Hyperparameter tuning, Regularization and Optimization
